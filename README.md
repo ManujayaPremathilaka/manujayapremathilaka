@@ -36,10 +36,12 @@ I love collaborating with teams, exploring new technologies, and continuously im
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-color-tal-revivo.png" alt="external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-color-tal-revivo"/>
   <img width="52" height="52" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
+</p> 
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/github-copilot.png" alt="github-copilot"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/chatgpt.png" alt="chatgpt"/>
-</p> 
+</p>
 
 <!--
 **ManujayaPremathilaka/manujayapremathilaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
