@@ -13,7 +13,7 @@ I love collaborating with teams, exploring new technologies, and continuously im
 
 ### 🚀 About Me
 - 💼 Senior Software Engineer @ DirectFN Sri Lanka  
-- 🔧 Backend-focused: Java | Spring Boot | Go | AWS | Docker  
+- 🔧 Backend-focused: Java | Spring Boot | Python | Go | AWS | Docker  
 - 🤝 Open to collaborations on impactful and innovative projects  
 
 ---
